@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+God's Kingdom Rules!
 Use the left arrow to go back!
